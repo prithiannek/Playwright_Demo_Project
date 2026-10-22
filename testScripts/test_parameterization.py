@@ -11,7 +11,7 @@ class TestParameterization:
         page.locator("#login-button").click()
 
         if valid_usernames == "locked_out_user":
-            expect(page.locator(".error-message-container error")).to_be_visible()
+            expect(page.locator(".error-message-container.error")).to_be_visible()
             print("Login blocked for locked_out_user as expected!")
 
         else:

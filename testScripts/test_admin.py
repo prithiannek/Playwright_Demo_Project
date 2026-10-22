@@ -14,7 +14,7 @@ class TestAdminRights:
         page.locator("button[type='submit']").click()
         page.locator(".small-box-footer").nth(1).click() #more info link
         page.locator(".btn.btn-rounded.btn-danger").nth(0).click() #new button
-        page.locator("#username").fill("PrithiA")
+        page.locator("#username").fill("PritiA")
         page.locator("#password").fill("Prithi@123")
         page.select_option("#user_type", label = 'Staff')
         page.locator(".card.card-dark").nth(1).screenshot(path="screenshots/image3.png")
@@ -67,7 +67,7 @@ class TestAdminRights:
         dashboard.click_more_info_link()
 
         new.click_new_button()
-        new.enter_new_user("Prithi Annn Kurien")
+        new.enter_new_user("Prithi A Kurien")
         new.enter_password("prithi1234")
         new.select_new_usertype("staff")
         new.click_create_button()
@@ -180,7 +180,7 @@ class TestAdminRights:
     def test_admin_add_user_with_pomchaining(self, page: Page):
         page.goto(login_url)
         login = PomDemoLoginPage(page)
-        login.enter_username("admin").enter_password("admin").click_login().click_more_info_link().click_new_button().enter_new_user("Prithi Anne").enter_password("jose123").select_new_usertype("staff").click_create_button()
+        login.enter_username("admin").enter_password("admin").click_login().click_more_info_link().click_new_button().enter_new_user("Prithi Annn Kurien").enter_password("prithi123").select_new_usertype("staff").click_create_button()
         expect(page.locator("//div[contains(@class,'alert-success')]")).to_be_visible()
         print("User added successfully!")
 
