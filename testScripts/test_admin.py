@@ -180,7 +180,7 @@ class TestAdminRights:
     def test_admin_add_user_with_pomchaining(self, page: Page):
         page.goto(login_url)
         login = PomDemoLoginPage(page)
-        login.enter_username("admin").enter_password("admin").click_login().click_more_info_link().click_new_button().enter_new_user("Prithi Annn Kurien").enter_password("prithi123").select_new_usertype("staff").click_create_button()
+        login.enter_username("admin").enter_password("admin").click_login().click_more_info_link().click_new_button().enter_new_user("Prithii Annn Kurien").enter_password("prithi123").select_new_usertype("staff").click_create_button()
         expect(page.locator("//div[contains(@class,'alert-success')]")).to_be_visible()
         print("User added successfully!")
 
