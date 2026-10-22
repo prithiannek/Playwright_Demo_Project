@@ -11,7 +11,7 @@ class TestLogin:
     def test_valid_login(self, page:Page):
         page.goto(login_url)
         page.get_by_placeholder("Username").fill("admin")
-        page.get_by_placeholder("Password").fill("adminn")
+        page.get_by_placeholder("Password").fill("admin")
         #page.get_by_text("Sign In").click() -----resolved to 2 elements
         page.locator("button[type='submit']").click()
         expect(page).to_have_url("https://groceryapp.uniqassosiates.com/admin")
@@ -83,7 +83,7 @@ class TestLogin:
         page.goto(login_url)
         demo = PomDemoLoginPage(page)
         demo.enter_username("admin")
-        demo.enter_password("admin123")
+        demo.enter_password("admin")
         page.screenshot(path="screenshots/image1.png")
         demo.click_login()
         page.screenshot(path="screenshots/image2.png")

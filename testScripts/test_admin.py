@@ -67,8 +67,8 @@ class TestAdminRights:
         dashboard.click_more_info_link()
 
         new.click_new_button()
-        new.enter_new_user("Prithi Anne Kurien")
-        new.enter_password("prithi123")
+        new.enter_new_user("Prithi Annn Kurien")
+        new.enter_password("prithi1234")
         new.select_new_usertype("staff")
         new.click_create_button()
 

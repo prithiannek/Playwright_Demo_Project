@@ -9,5 +9,11 @@ class TestParameterization:
         page.get_by_placeholder("Username").fill(valid_usernames)
         page.get_by_placeholder("Password").fill("secret_sauce")
         page.locator("#login-button").click()
-        expect(page).to_have_url("https://www.saucedemo.com/inventory.html")
-        print("Login successful!")
+
+        if valid_usernames == "locked_out_user":
+            expect(page.locator(".error-message-container error")).to_be_visible()
+            print("Login blocked for locked_out_user as expected!")
+
+        else:
+            expect(page).to_have_url("https://www.saucedemo.com/inventory.html")
+            print(f"Login successful for {valid_usernames}!")
