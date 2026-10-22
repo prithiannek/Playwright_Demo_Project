@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21902e22-54dc-4475-95c2-ba0e91b699a7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Jl3Iob57wZ3MBIYsZyhTiaM39j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_existing_user_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_existing_user_with_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_user.executor": "Run",
+    "Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_user_with_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_search_valid_user_with_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_admin_login_with_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_admin_logout_with_pomchaining.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login_pom.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login_pom2.executor": "Run",
+    "Python tests.Python tests for testScripts.test_login.test_valid_login_pom2.executor": "Run",
+    "Python tests.Python tests for testScripts.test_parameterization.TestParameterization.test_valid_login_parameterization.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PlaywrightDemoProject",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login">
+    <configuration name="Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightDemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testScripts.test_admin.TestAdminRights.test_admin_add_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testScripts.test_login.TestLogin.test_valid_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightDemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testScripts.test_login.TestLogin.test_valid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testScripts.test_login.TestLogin.test_valid_login_pom" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightDemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testScripts.test_login.TestLogin.test_valid_login_pom&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testScripts.test_login.TestLogin.test_valid_login_pom2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightDemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testScripts.test_login.TestLogin.test_valid_login_pom2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testScripts.test_login.test_valid_login_pom2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PlaywrightDemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testScripts.test_login.test_valid_login_pom2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login" />
+        <item itemvalue="Python tests.Python tests for testScripts.test_admin.TestAdminRights.test_admin_add_user" />
+        <item itemvalue="Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login_pom2" />
+        <item itemvalue="Python tests.Python tests for testScripts.test_login.test_valid_login_pom2" />
+        <item itemvalue="Python tests.Python tests for testScripts.test_login.TestLogin.test_valid_login_pom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21902e22-54dc-4475-95c2-ba0e91b699a7" name="Changes" comment="" />
+      <created>1790221754688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790221754688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testScripts/test_login.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
